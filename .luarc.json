@@ -1,0 +1,8 @@
+{
+    "diagnostics.globals": [
+        "file"
+    ],
+    "diagnostics.disable": [
+        "need-check-nil"
+    ]
+}
